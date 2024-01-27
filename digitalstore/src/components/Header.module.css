@@ -1,0 +1,21 @@
+.box {
+    width: 1440px;
+    height: 192px;
+    display: flex;
+}
+
+.box img {
+    width: 33px;
+    height: 33px;
+    margin: 47px 0 0 104px;
+}
+.box p{
+    color: #C92071;
+    font-family: Inter;
+    font-size: 36.395px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: -0.364px;
+    margin: 42px 0 0 145px;     
+}
